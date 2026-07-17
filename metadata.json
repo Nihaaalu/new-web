@@ -2,5 +2,7 @@
   "name": "HRBY Solutions",
   "description": "Premium modern websites that help businesses build trust, attract customers, and grow online.",
   "requestFramePermissions": [],
+
+  
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
